@@ -1,0 +1,178 @@
+
+
+.open-sans {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <100px>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+
+.liza{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 200px; 
+    
+    
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+    
+}
+.calar{
+    color:#FD6E0A;
+}
+ul li {
+    list-style: none;
+    margin: 50px;
+    
+}
+li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #474747;
+    
+
+    
+}
+nav ul {
+    display: flex;
+    
+}
+.btn{
+   background-color: #FD6E0A;
+   font-weight: bold;
+   font-size: 20px;
+   color: white;
+   border-radius: 5px;
+   padding: 18px 20px;
+   border: unset;
+}
+.same{
+    align-items: center;
+}
+
+.bannar{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 35px 0px 200px;
+}
+.bannar-contain{
+    width: 585px;
+    
+}
+
+.bannar-greeting{
+    font-size: 45px;
+    font-weight: 700;
+    color: #474747;
+    
+}
+
+.bannar-title{
+    font-size: 85px;
+    font-weight: bold;
+    color: #181818;
+    line-height: 3px;
+    
+}
+.bannar-discrmsion{
+    width: 585px;
+    height: 60px;
+    font-size: 18px;
+    font-weight:1000px;
+    color: #757575;
+    
+}
+
+.picture{
+    width: 585Px;
+    
+}
+.images{
+    background-image: url(./portfolio-resources/images/developer.png), url(./portfolio-resources/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left ,bottom right;
+    background-color: #FFF8F3; 
+    
+    
+}
+/* about ar kaj */
+.menu{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.discus{
+    font-size: 18px;
+    font-weight: 200px;
+    color: #757575;
+    
+}
+.final{
+   background-color: #FFF8F3;
+   border-radius: 10px;
+   padding: 131px 150px;
+   text-align: center;
+   margin-top: 50px;
+   
+   
+   
+}
+.nice{
+    max-width: 1150px;
+    margin: 0 auto;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-discription{
+    font-size: 20px;
+    font-weight: bold;
+    color: #474747;
+}
+.bold{
+    font-size: 40px;
+    font-weight: bold;
+    color:#181818;
+}
+.eat{
+    font-size: 18px;
+    font-weight: 200px;
+    color: #757575;
+    
+    
+}
+.what{
+    text-align: center;
+    margin-top: 130px;
+}
+.how{
+    display: flex;
+    gap: 24px;
+    
+  
+}
+.icon-tile{
+    font-size: 20px;
+    font-weight: bold;
+    color: #181818;
+}
+.icon-discription{
+    font-size: 18px;
+    font-weight: 100;
+    color: #757575;
+    
+}
+.about-icon{ 
+    padding: 50px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    
+}
